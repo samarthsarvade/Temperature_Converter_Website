@@ -1,0 +1,31 @@
+.container {
+	margin: 50px auto;
+	max-width: 400px;
+	text-align: center;
+}
+h1 {
+	margin-bottom: 20px;
+	position: relative;
+	left: 30px;
+}
+input[type="text"] {
+	padding: 10px;
+	margin-right: 10px;
+	width: 60%;
+}
+select {
+	padding: 10px;
+	margin-right: 10px;
+	width: 20%;
+}
+button {
+	padding: 10px 20px;
+	background-color: #4CAF50;
+	color: white;
+	border: none;
+}
+p {
+	margin-top: 20px;
+	font-size: 24px;
+	font-weight: bold;
+}
